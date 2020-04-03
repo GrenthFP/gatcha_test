@@ -1,0 +1,39 @@
+.hero_unit{
+  display: inline-block;
+  width: 20%;
+  height: 20%;
+  text-align: center;
+  border: 1px solid black;
+  margin: none;
+}
+#hero_inventory{
+  top: 0px;
+  left: 400px;
+  height: 500px;
+  width: 500px;
+  border: 1px solid blue;
+  position: absolute;
+  
+}
+.hero_unit_text{
+  padding: 35% 0px;
+}
+#App_main{
+  text-align: center;
+  border: 1px solid red;
+  width: 200px;
+  height: 350px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+#UI{
+  position: absolute;
+  top: 0px;
+  left: 1000px;
+}
+#picpiccontainer{
+  height: 200px;
+  width: 200px;
+
+}
+
